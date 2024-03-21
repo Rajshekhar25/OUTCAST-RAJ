@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JS frameworks and basics of AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 My instagram handle: https://www.instagram.com/_outcast_raj/
+                Linkedin:https://www.linkedin.com/in/rajshekhar-das-a264b1212/
+  
 - 😄 Pronouns: I'm not into this.
 - ⚡ Fun fact: I have a dark sense of humour.
 

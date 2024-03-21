@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend and AI.
 - 🌱 I’m currently learning JS frameworks and basics of AI.
 - 💞️ I’m looking to collaborate on ...
-- 📫 My instagram handle: _outcast_raj
+- 📫 My instagram handle: https://www.instagram.com/_outcast_raj/
 - 😄 Pronouns: I'm not into this.
 - ⚡ Fun fact: I have a dark sense of humour.
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RAJSHEKHAR DAS.
 - 👀 I’m interested in Backend and AI/ML.
 - 🌱 I’m currently learning JS frameworks and basics of AI/ML.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real world application based projects.
 - 📫 My instagram handle: https://www.instagram.com/_outcast_raj/
                 Linkedin:https://www.linkedin.com/in/rajshekhar-das-a264b1212/
   
